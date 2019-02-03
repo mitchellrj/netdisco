@@ -28,6 +28,7 @@ DECONZ = "deconz"
 TIVO_DVR = "tivo_dvr"
 FREEBOX = "freebox"
 XBOX_SMARTGLASS = "xbox_smartglass"
+SKY = "sky"
 
 ATTR_NAME = 'name'
 ATTR_HOST = 'host'
